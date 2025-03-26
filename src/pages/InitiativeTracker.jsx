@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 export default function InitiativeTracker() {
+  const [showCharacterPanel, setShowCharacterPanel] = useState(false);
   const [globalEffects, setGlobalEffects] = useState([]);
   const [showGlobalPanel, setShowGlobalPanel] = useState(false);
   const [newEffectName, setNewEffectName] = useState("");
@@ -272,12 +273,18 @@ export default function InitiativeTracker() {
           ))}
         </div>
       )}
-      <div className="flex justify-end mb-4">
+      <div className="flex justify-end gap-4 mb-4">
+        <button
+          onClick={() => setShowCharacterPanel((prev) => !prev)}
+          className="bg-indigo-600 px-4 py-2 rounded hover:bg-indigo-500 transition"
+        >
+          🧍 Characters
+        </button>
         <button
           onClick={() => setShowGlobalPanel((prev) => !prev)}
           className="bg-purple-600 px-4 py-2 rounded hover:bg-purple-500 transition"
         >
-          Global Effects
+          🌍 Global Effects
         </button>
       </div>
       {/* Characters */}
@@ -417,6 +424,85 @@ export default function InitiativeTracker() {
               ))
             )}
           </div>
+        </div>
+      </div>
+      {/* CHARACTER OVERVIEW PANEL */}
+      <div
+        className={`fixed top-0 left-0 h-full w-96 bg-gray-900 border-r border-gray-700 shadow-lg transform transition-transform duration-300 z-50 ${
+          showCharacterPanel ? "translate-x-0" : "-translate-x-full"
+        }`}
+      >
+        <div className="p-4 overflow-y-auto h-full">
+          <div className="flex justify-between items-center mb-4">
+            <h3 className="text-xl font-bold text-blue-300">Characters</h3>
+            <button
+              onClick={() => setShowCharacterPanel(false)}
+              className="text-red-400 hover:text-red-300 text-sm"
+            >
+              ✖
+            </button>
+          </div>
+
+          {entries.length === 0 ? (
+            <p className="text-gray-400 text-sm">No characters in tracker.</p>
+          ) : (
+            entries.map((char, i) => (
+              <div
+                key={i}
+                className="bg-gray-800 p-3 mb-3 rounded-lg border border-gray-700"
+              >
+                <div className="text-blue-300 font-semibold mb-2">
+                  {char.name}
+                </div>
+
+                <div className="flex gap-4 mb-2">
+                  {/* HP */}
+                  <div className="flex-1">
+                    <label className="text-sm text-gray-400">HP</label>
+                    <input
+                      type="number"
+                      value={char.hp}
+                      onChange={(e) => {
+                        const updated = [...entries];
+                        updated[i].hp = parseInt(e.target.value);
+                        setEntries(updated);
+                      }}
+                      className="w-full px-2 py-1 rounded bg-gray-900 text-white"
+                    />
+                  </div>
+
+                  {/* Will */}
+                  <div className="flex-1">
+                    <label className="text-sm text-gray-400">Will</label>
+                    <input
+                      type="number"
+                      value={char.will}
+                      onChange={(e) => {
+                        const updated = [...entries];
+                        updated[i].will = parseInt(e.target.value);
+                        setEntries(updated);
+                      }}
+                      className="w-full px-2 py-1 rounded bg-gray-900 text-white"
+                    />
+                  </div>
+                </div>
+
+                <div>
+                  <label className="text-sm text-gray-400">Buffs / Notes</label>
+                  <textarea
+                    rows={2}
+                    value={char.notes}
+                    onChange={(e) => {
+                      const updated = [...entries];
+                      updated[i].notes = e.target.value;
+                      setEntries(updated);
+                    }}
+                    className="w-full px-2 py-1 rounded bg-gray-900 text-white"
+                  />
+                </div>
+              </div>
+            ))
+          )}
         </div>
       </div>
     </div>

@@ -1,0 +1,11 @@
+{
+  "name": "Grudge",
+  "type": "Ghost",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Foe",
+  "effect": "The user faints. The target's Will is reduced to 0 and cannot be replenished for the rest of the scene. Additionally, the last move the target used is Disabled for the rest of the scene.",
+  "description": "The user used the last of it's energy to leave a grudge on the foe, draining the opponent's will to fight and inhibiting some of their abilities.",
+  "category": "Support"
+}

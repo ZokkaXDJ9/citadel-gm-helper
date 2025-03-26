@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 
 export default function LandingPage() {
   const tools = [
+    { name: "Resources", path: "/resources" },
     { name: "GM Guide", path: "/gm-guide" },
     { name: "Encounter Builder", path: "/encounter-builder" },
     { name: "Initiative Tracker", path: "/initiative-tracker" },
