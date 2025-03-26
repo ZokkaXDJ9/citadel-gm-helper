@@ -43,7 +43,7 @@ export default function Resources() {
   return (
     <div className="min-h-screen bg-gray-950 text-white p-6">
       <h1 className="text-4xl font-bold text-blue-400 text-center mb-6">
-        📚 System Resources
+        System Resources
       </h1>
 
       {/* Tabs */}
@@ -106,18 +106,29 @@ export default function Resources() {
                         </div>
                       )}
 
-                      {/* Type */}
-                      {item.type && (
-                        <div>
-                          <strong className="text-white">Type:</strong>{" "}
-                          <span>
-                            {/* Replace emoji placeholders with actual images/icons later */}
-                            <span className="inline-block mr-1 align-middle">
-                              🔥{" "}
-                              {/* You can use an <img src="..." /> here instead */}
-                            </span>
-                            {item.type}
-                          </span>
+                      {/* Type + Category Icons */}
+                      {(item.type || item.category) && (
+                        <div className="flex items-center gap-2">
+                          {item.type && (
+                            <div className="flex items-center gap-1">
+                              <img
+                                src={`/assets/types/${item.type.toLowerCase()}.png`}
+                                alt={item.type}
+                                className="w-5 h-5"
+                              />
+                              <span>{item.type}</span>
+                            </div>
+                          )}
+                          {item.category && (
+                            <div className="flex items-center gap-1">
+                              <img
+                                src={`/assets/categories/${item.category.toLowerCase()}.png`}
+                                alt={item.category}
+                                className="w-5 h-5"
+                              />
+                              <span>{item.category}</span>
+                            </div>
+                          )}
                         </div>
                       )}
 
