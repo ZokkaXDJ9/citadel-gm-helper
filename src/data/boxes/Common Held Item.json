@@ -1,0 +1,164 @@
+{
+  "Common Held Item": [
+    {
+      "item": "Air Balloon",
+      "probability": 100
+    },
+    {
+      "item": "Destiny Knot",
+      "probability": 100
+    },
+    {
+      "item": "Electric Seed",
+      "probability": 100
+    },
+    {
+      "item": "Grassy Seed",
+      "probability": 100
+    },
+    {
+      "item": "Misty Seed",
+      "probability": 100
+    },
+    {
+      "item": "Psychic Seed",
+      "probability": 100
+    },
+    {
+      "item": "Focus Band",
+      "probability": 100
+    },
+    {
+      "item": "Grip Claw",
+      "probability": 100
+    },
+    {
+      "item": "Iron Ball",
+      "probability": 100
+    },
+    {
+      "item": "Iron Braces",
+      "probability": 100
+    },
+    {
+      "item": "Punching Glove",
+      "probability": 100
+    },
+    {
+      "item": "Quick Claw",
+      "probability": 100
+    },
+    {
+      "item": "Ring Target",
+      "probability": 100
+    },
+    {
+      "item": "Room Service",
+      "probability": 100
+    },
+    {
+      "item": "Throat Spray",
+      "probability": 100
+    },
+    {
+      "item": "Blunder Policy",
+      "probability": 100
+    },
+    {
+      "item": "Blue Scarf",
+      "probability": 100
+    },
+    {
+      "item": "Green Scarf",
+      "probability": 100
+    },
+    {
+      "item": "Pink Scarf",
+      "probability": 100
+    },
+    {
+      "item": "Red Scarf",
+      "probability": 100
+    },
+    {
+      "item": "Yellow Scarf",
+      "probability": 100
+    },
+    {
+      "item": "Shed Shell",
+      "probability": 100
+    },
+    {
+      "item": "Black Belt",
+      "probability": 100
+    },
+    {
+      "item": "Black Glasses",
+      "probability": 100
+    },
+    {
+      "item": "Charcoal",
+      "probability": 100
+    },
+    {
+      "item": "Dragon Fang",
+      "probability": 100
+    },
+    {
+      "item": "Fairy Feather",
+      "probability": 100
+    },
+    {
+      "item": "Hard Stone",
+      "probability": 100
+    },
+    {
+      "item": "Magnet",
+      "probability": 100
+    },
+    {
+      "item": "Metal Coat",
+      "probability": 100
+    },
+    {
+      "item": "Miracle Seed",
+      "probability": 100
+    },
+    {
+      "item": "Mystic Water",
+      "probability": 100
+    },
+    {
+      "item": "Never-Melt Ice",
+      "probability": 100
+    },
+    {
+      "item": "Poison Barb",
+      "probability": 100
+    },
+    {
+      "item": "Sharp Beak",
+      "probability": 100
+    },
+    {
+      "item": "Silk Scarf",
+      "probability": 100
+    },
+    {
+      "item": "Silver Powder",
+      "probability": 100
+    },
+    {
+      "item": "Soft Sand",
+      "probability": 100
+    },
+    {
+      "item": "Spell Tag",
+      "probability": 100
+    },
+    {
+      "item": "Twisted Spoon",
+      "probability": 100
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "Berry": {
+    "Common Berries": {
+      "probability": 350,
+      "items": [
+        {
+          "item": "2x Aspear Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Cheri Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Pecha Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Rawst Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Cheri Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Chesto Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Coba Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Colbur Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Drash Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Pecha Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Persim Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Rawst Berry",
+          "probability": 25
+        },
+        {
+          "item": "2x Starf Berry",
+          "probability": 25
+        }
+      ]
+    },
+    "Uncommon Berries": {
+      "probability": 350,
+      "items": [
+        {
+          "item": "Bitmel Berry",
+          "probability": 50
+        },
+        {
+          "item": "Charti Berry",
+          "probability": 50
+        },
+        {
+          "item": "Petaya Berry",
+          "probability": 50
+        },
+        {
+          "item": "Chilan Berry",
+          "probability": 50
+        },
+        {
+          "item": "Roseli Berry",
+          "probability": 50
+        },
+        {
+          "item": "Babiri Berry",
+          "probability": 50
+        },
+        {
+          "item": "Chipe Berry",
+          "probability": 50
+        },
+        {
+          "item": "Chople Berry",
+          "probability": 50
+        },
+        {
+          "item": "Haban Berry",
+          "probability": 50
+        },
+        {
+          "item": "Kasib Berry",
+          "probability": 50
+        },
+        {
+          "item": "Kebia Berry",
+          "probability": 50
+        },
+        {
+          "item": "Leichi Berry",
+          "probability": 50
+        },
+        {
+          "item": "Magost Berry",
+          "probability": 50
+        },
+        {
+          "item": "Nomel Berry",
+          "probability": 50
+        },
+        {
+          "item": "Occa Berry",
+          "probability": 50
+        },
+        {
+          "item": "Passho Berry",
+          "probability": 50
+        },
+        {
+          "item": "Payapa Berry",
+          "probability": 50
+        },
+        {
+          "item": "Pumkin Berry",
+          "probability": 50
+        },
+        {
+          "item": "Rindo Berry",
+          "probability": 50
+        },
+        {
+          "item": "Salac Berry",
+          "probability": 50
+        },
+        {
+          "item": "Shuca Berry",
+          "probability": 50
+        },
+        {
+          "item": "Sitrus Berry",
+          "probability": 50
+        },
+        {
+          "item": "Tanga Berry",
+          "probability": 50
+        },
+        {
+          "item": "Wacan Berry",
+          "probability": 50
+        },
+        {
+          "item": "Yache Berry",
+          "probability": 50
+        },
+        {
+          "item": "Jaboca Berry",
+          "probability": 50
+        },
+        {
+          "item": "Rowap Berry",
+          "probability": 50
+        }
+      ]
+    },
+    "Rare Berries": {
+      "probability": 200,
+      "items": [
+        {
+          "item": "Lum Berry",
+          "probability": 50
+        },
+        {
+          "item": "Apicot Berry",
+          "probability": 50
+        },
+        {
+          "item": "Ganlon Berry",
+          "probability": 50
+        },
+        {
+          "item": "Lansat Berry",
+          "probability": 50
+        },
+        {
+          "item": "Meyt Berry",
+          "probability": 50
+        }
+      ]
+    },
+    "Very Rare Berries": {
+      "probability": 100,
+      "items": [
+        {
+          "item": "Enigma Berry",
+          "probability": 50
+        },
+        {
+          "item": "Leppa Berry",
+          "probability": 50
+        }
+      ]
+    }
+  }
+}

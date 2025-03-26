@@ -1,0 +1,64 @@
+{
+  "Move Card": [
+    {
+      "item": "Raging Storm",
+      "probability": 8
+    },
+    {
+      "item": "Focused Winds",
+      "probability": 8
+    },
+    {
+      "item": "Fairy Blessing",
+      "probability": 8
+    },
+    {
+      "item": "Piercing Force",
+      "probability": 8
+    },
+    {
+      "item": "Meteor Shower",
+      "probability": 5
+    },
+    {
+      "item": "Laser Cutter",
+      "probability": 5
+    },
+    {
+      "item": "Reckless Malice",
+      "probability": 5
+    },
+    {
+      "item": "Flash Freeze",
+      "probability": 5
+    },
+    {
+      "item": "Aura Assault",
+      "probability": 5
+    },
+    {
+      "item": "Mystery Sting",
+      "probability": 14
+    },
+    {
+      "item": "Adaptive Blade",
+      "probability": 11
+    },
+    {
+      "item": "Adaptive Blast",
+      "probability": 11
+    },
+    {
+      "item": "Unleash Aura",
+      "probability": 11
+    },
+    {
+      "item": "Weather Syphon",
+      "probability": 9
+    },
+    {
+      "item": "Luck Blessing",
+      "probability": 9
+    }
+  ]
+}

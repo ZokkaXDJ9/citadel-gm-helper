@@ -1,0 +1,207 @@
+{
+  "Rare": {
+    "TM": {
+      "probability": 25,
+      "items": [
+        {
+          "item": "3000 TM",
+          "probability": 45
+        },
+        {
+          "item": "4000 TM",
+          "probability": 25
+        },
+        {
+          "item": "5000 TM",
+          "probability": 15
+        },
+        {
+          "item": "6000 TM",
+          "probability": 10
+        },
+        {
+          "item": "Any TM",
+          "probability": 5
+        }
+      ]
+    },
+    "Rare Held Items": {
+      "probability": 67,
+      "items": [
+        {
+          "item": "Fire Plate",
+          "probability": 100
+        },
+        {
+          "item": "Normal Plate",
+          "probability": 100
+        },
+        {
+          "item": "Grass Plate",
+          "probability": 100
+        },
+        {
+          "item": "Ice Plate",
+          "probability": 100
+        },
+        {
+          "item": "Fairy Plate",
+          "probability": 100
+        },
+        {
+          "item": "Dragon Plate",
+          "probability": 100
+        },
+        {
+          "item": "Ground Plate",
+          "probability": 100
+        },
+        {
+          "item": "Rock Plate",
+          "probability": 100
+        },
+        {
+          "item": "Water Plate",
+          "probability": 100
+        },
+        {
+          "item": "Fighting Plate",
+          "probability": 100
+        },
+        {
+          "item": "Steel Plate",
+          "probability": 100
+        },
+        {
+          "item": "Poison Plate",
+          "probability": 100
+        },
+        {
+          "item": "Psychic Plate",
+          "probability": 100
+        },
+        {
+          "item": "Flying Plate",
+          "probability": 100
+        },
+        {
+          "item": "Dark Plate",
+          "probability": 100
+        },
+        {
+          "item": "Ghost Plate",
+          "probability": 100
+        },
+        {
+          "item": "Electric Plate",
+          "probability": 100
+        },
+        {
+          "item": "Bug Plate",
+          "probability": 100
+        },
+        {
+          "item": "Expert Belt",
+          "probability": 100
+        },
+        {
+          "item": "King's Rock",
+          "probability": 100
+        },
+        {
+          "item": "Razor Fang",
+          "probability": 100
+        },
+        {
+          "item": "Leftovers",
+          "probability": 100
+        },
+        {
+          "item": "Black Sludge",
+          "probability": 100
+        },
+        {
+          "item": "Life Orb",
+          "probability": 100
+        },
+        {
+          "item": "Razor Claw",
+          "probability": 100
+        },
+        {
+          "item": "Shadow Crystal",
+          "probability": 100
+        },
+        {
+          "item": "Utility Umbrella",
+          "probability": 100
+        },
+        {
+          "item": "Zoom Lens",
+          "probability": 100
+        },
+        {
+          "item": "Binding Band",
+          "probability": 100
+        },
+        {
+          "item": "Metronome",
+          "probability": 100
+        },
+        {
+          "item": "Safety Goggles",
+          "probability": 100
+        },
+        {
+          "item": "Big Root",
+          "probability": 100
+        },
+        {
+          "item": "Eviolite",
+          "probability": 100
+        },
+        {
+          "item": "Assault Vest",
+          "probability": 100
+        },
+        {
+          "item": "White Tea",
+          "probability": 100
+        },
+        {
+          "item": "Mirror Tea",
+          "probability": 100
+        }
+      ]
+    },
+    "Very Rare Held Items": {
+      "probability": 8,
+      "items": [
+        {
+          "item": "Ability Patch",
+          "probability": 25
+        },
+        {
+          "item": "Clear Amulet",
+          "probability": 25
+        },
+        {
+          "item": "Covert Cloak",
+          "probability": 25
+        },
+        {
+          "item": "Scope Lens",
+          "probability": 25
+        },
+        {
+          "item": "Shell Bell",
+          "probability": 25
+        },
+        {
+          "item": "Loaded Dice",
+          "probability": 25
+        }
+      ]
+    }
+  }
+}

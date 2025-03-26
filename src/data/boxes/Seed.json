@@ -1,0 +1,28 @@
+{
+  "Seed": [
+    {
+      "item": "Blast Seed",
+      "probability": 100
+    },
+    {
+      "item": "Encourage Seed",
+      "probability": 66
+    },
+    {
+      "item": "Heal Seed",
+      "probability": 50
+    },
+    {
+      "item": "Reviver Seed",
+      "probability": 33
+    },
+    {
+      "item": "Sleep Seed",
+      "probability": 100
+    },
+    {
+      "item": "Stun Seed",
+      "probability": 100
+    }
+  ]
+}

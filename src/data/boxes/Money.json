@@ -1,0 +1,32 @@
+{
+  "Money": [
+    {
+      "item": "200",
+      "probability": 100
+    },
+    {
+      "item": "300",
+      "probability": 75
+    },
+    {
+      "item": "500",
+      "probability": 50
+    },
+    {
+      "item": "1000",
+      "probability": 20
+    },
+    {
+      "item": "1500",
+      "probability": 10
+    },
+    {
+      "item": "2000",
+      "probability": 5
+    },
+    {
+      "item": "5000",
+      "probability": 1
+    }
+  ]
+}

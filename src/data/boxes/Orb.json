@@ -1,0 +1,132 @@
+{
+  "Orb": {
+    "Common": {
+      "probability": 35,
+      "items": [
+        {
+          "item": "Hail Orb",
+          "probability": 25
+        },
+        {
+          "item": "Rainy Orb",
+          "probability": 25
+        },
+        {
+          "item": "Sandy Orb",
+          "probability": 25
+        },
+        {
+          "item": "Sunny Orb",
+          "probability": 25
+        },
+        {
+          "item": "Slow Orb",
+          "probability": 25
+        }
+      ]
+    },
+    "Uncommon": {
+      "probability": 35,
+      "items": [
+        {
+          "item": "Health Orb",
+          "probability": 25
+        },
+        {
+          "item": "Memory Orb",
+          "probability": 25
+        },
+        {
+          "item": "Petrify Orb",
+          "probability": 25
+        },
+        {
+          "item": "Slumber Orb",
+          "probability": 25
+        },
+        {
+          "item": "Trapbust Orb",
+          "probability": 25
+        },
+        {
+          "item": "Trapper Orb",
+          "probability": 25
+        },
+        {
+          "item": "Weather Orb",
+          "probability": 25
+        },
+        {
+          "item": "Observer Orb",
+          "probability": 25
+        }
+      ]
+    },
+    "Rare": {
+      "probability": 25,
+      "items": [
+        {
+          "item": "All-Charge Orb",
+          "probability": 50
+        },
+        {
+          "item": "All-Power Orb",
+          "probability": 50
+        },
+        {
+          "item": "Snatch Orb",
+          "probability": 50
+        },
+        {
+          "item": "Align Orb",
+          "probability": 50
+        },
+        {
+          "item": "All-Hit Orb",
+          "probability": 50
+        },
+        {
+          "item": "All-Mach Orb",
+          "probability": 50
+        },
+        {
+          "item": "Lob Orb",
+          "probability": 50
+        },
+        {
+          "item": "Totter Orb",
+          "probability": 50
+        },
+        {
+          "item": "Weather Lock Orb",
+          "probability": 50
+        },
+        {
+          "item": "All-Dodge Orb",
+          "probability": 50
+        },
+        {
+          "item": "Evasion Orb",
+          "probability": 50
+        },
+        {
+          "item": "Nullify Orb",
+          "probability": 50
+        }
+      ]
+    },
+    "Very Rare": {
+      "probability": 5,
+      "items": [
+        {
+          "item": "Storage Orb",
+          "probability": 25
+        },
+        {
+          "item": "Reviver Orb",
+          "probability": 25
+        }
+      ]
+    }
+  }
+}

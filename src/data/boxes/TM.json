@@ -1,0 +1,308 @@
+{
+  "TM": [
+    {
+      "item": "Play Rough",
+      "probability": 100
+    },
+    {
+      "item": "Moonblast",
+      "probability": 100
+    },
+    {
+      "item": "Metal Claw",
+      "probability": 100
+    },
+    {
+      "item": "Flash Cannon",
+      "probability": 100
+    },
+    {
+      "item": "Metal Sound",
+      "probability": 100
+    },
+    {
+      "item": "Assurance",
+      "probability": 100
+    },
+    {
+      "item": "Dark Pulse",
+      "probability": 100
+    },
+    {
+      "item": "Nasty Plot",
+      "probability": 100
+    },
+    {
+      "item": "Shadow Claw",
+      "probability": 100
+    },
+    {
+      "item": "Shadow Ball",
+      "probability": 100
+    },
+    {
+      "item": "Curse",
+      "probability": 100
+    },
+    {
+      "item": "Dragon Claw",
+      "probability": 100
+    },
+    {
+      "item": "Dragon Pulse",
+      "probability": 100
+    },
+    {
+      "item": "Dragon Dance",
+      "probability": 100
+    },
+    {
+      "item": "Bug Bite",
+      "probability": 100
+    },
+    {
+      "item": "Signal Beam",
+      "probability": 100
+    },
+    {
+      "item": "Ice Fang",
+      "probability": 100
+    },
+    {
+      "item": "Aurora Beam",
+      "probability": 100
+    },
+    {
+      "item": "Rock Tomb",
+      "probability": 100
+    },
+    {
+      "item": "Power Gem",
+      "probability": 100
+    },
+    {
+      "item": "Stealth Rock",
+      "probability": 100
+    },
+    {
+      "item": "Zen Headbutt",
+      "probability": 100
+    },
+    {
+      "item": "Psychic",
+      "probability": 100
+    },
+    {
+      "item": "Agility",
+      "probability": 100
+    },
+    {
+      "item": "Light Screen",
+      "probability": 100
+    },
+    {
+      "item": "Reflect",
+      "probability": 100
+    },
+    {
+      "item": "Calm Mind",
+      "probability": 100
+    },
+    {
+      "item": "Drill Run",
+      "probability": 100
+    },
+    {
+      "item": "Earth Power",
+      "probability": 100
+    },
+    {
+      "item": "Spikes",
+      "probability": 100
+    },
+    {
+      "item": "Thunder Fang",
+      "probability": 100
+    },
+    {
+      "item": "Thunderbolt",
+      "probability": 100
+    },
+    {
+      "item": "Thunder Wave",
+      "probability": 100
+    },
+    {
+      "item": "Poison Jab",
+      "probability": 100
+    },
+    {
+      "item": "Venoshock",
+      "probability": 100
+    },
+    {
+      "item": "Toxic",
+      "probability": 100
+    },
+    {
+      "item": "Seed Bomb",
+      "probability": 100
+    },
+    {
+      "item": "Energy Ball",
+      "probability": 100
+    },
+    {
+      "item": "Synthesis",
+      "probability": 100
+    },
+    {
+      "item": "Aerial Ace",
+      "probability": 100
+    },
+    {
+      "item": "Air Slash",
+      "probability": 100
+    },
+    {
+      "item": "Tailwind",
+      "probability": 100
+    },
+    {
+      "item": "Liquidation",
+      "probability": 100
+    },
+    {
+      "item": "Scald",
+      "probability": 100
+    },
+    {
+      "item": "Rock Smash",
+      "probability": 100
+    },
+    {
+      "item": "Aura Sphere",
+      "probability": 100
+    },
+    {
+      "item": "Bulk Up",
+      "probability": 100
+    },
+    {
+      "item": "Detect",
+      "probability": 100
+    },
+    {
+      "item": "Fire Fang",
+      "probability": 100
+    },
+    {
+      "item": "Flamethrower",
+      "probability": 100
+    },
+    {
+      "item": "Will-O-Wisp",
+      "probability": 100
+    },
+    {
+      "item": "Body Slam",
+      "probability": 100
+    },
+    {
+      "item": "Crush Claw",
+      "probability": 100
+    },
+    {
+      "item": "Slash",
+      "probability": 100
+    },
+    {
+      "item": "Round",
+      "probability": 100
+    },
+    {
+      "item": "Double Team",
+      "probability": 100
+    },
+    {
+      "item": "Focus Energy",
+      "probability": 100
+    },
+    {
+      "item": "Helping Hand",
+      "probability": 100
+    },
+    {
+      "item": "Metronome",
+      "probability": 100
+    },
+    {
+      "item": "Protect",
+      "probability": 100
+    },
+    {
+      "item": "Swords Dance",
+      "probability": 100
+    },
+    {
+      "item": "Hidden Power",
+      "probability": 100
+    },
+    {
+      "item": "Song of Storms",
+      "probability": 100
+    },
+    {
+      "item": "Infinity Fracture",
+      "probability": 100
+    },
+    {
+      "item": "Witching Hour",
+      "probability": 100
+    },
+    {
+      "item": "Aura Burst",
+      "probability": 100
+    },
+    {
+      "item": "Springtide",
+      "probability": 100
+    },
+    {
+      "item": "Ground Zero",
+      "probability": 100
+    },
+    {
+      "item": "Tempest",
+      "probability": 100
+    },
+    {
+      "item": "Eclipse",
+      "probability": 100
+    },
+    {
+      "item": "Pheromones",
+      "probability": 100
+    },
+    {
+      "item": "Pole Shift",
+      "probability": 100
+    },
+    {
+      "item": "Cloudy Day",
+      "probability": 100
+    },
+    {
+      "item": "Starry Sky",
+      "probability": 100
+    },
+    {
+      "item": "Incantation",
+      "probability": 100
+    },
+    {
+      "item": "Weather Ball",
+      "probability": 100
+    }
+  ]
+}
